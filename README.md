@@ -1,0 +1,2 @@
+# pridemo
+diving the basics
